@@ -1,4 +1,4 @@
- 🏠 Portfolio
+ ## 🏠 Portfolio
 
 Bienvenido a mi portfolio personal, donde comparto mis proyectos, habilidades y experiencias. Este sitio está inspirado en el diseño del portfolio de [Brittany Chiang](https://brittanychiang.com/), aunque fue generado inicialmente con **v0.app** y luego personalizado completamente por mí.
 
