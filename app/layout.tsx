@@ -24,20 +24,19 @@ export const metadata: Metadata = {
     "desarrollo web",
     "portfolio desarrollador",
     "programador backend",
-    "elrincondelruedas",
   ],
-  authors: [{ name: "Jose Maria Lopez Villena", url: "https://elrincondelruedas.com" }],
+  authors: [{ name: "Jose Maria Lopez Villena" }],
   creator: "Jose Maria Lopez Villena",
   publisher: "Jose Maria Lopez Villena",
-  metadataBase: new URL("https://elrincondelruedas.com"),
+  metadataBase: new URL("https://josejd2.netlify.app"),
   openGraph: {
     type: "website",
     locale: "es_ES",
-    url: "https://elrincondelruedas.com",
+    url: "https://josejd2.netlify.app",
     title: "Jose Maria Lopez Villena | Backend Developer",
     description:
       "Desarrollador Junior especializado en Backend con base sólida Full Stack. Experto en Java, Laravel, Node.js y React.",
-    siteName: "elrincondelruedas",
+    siteName: "Jose Maria Lopez Villena",
     images: [
       {
         url: "/og-image.jpg",
@@ -53,7 +52,6 @@ export const metadata: Metadata = {
     description:
       "Desarrollador Junior especializado en Backend y apasionado por crear soluciones escalables con tecnologías modernas.",
     images: ["/og-image.jpg"],
-    creator: "@elrincondelruedas",
   },
   robots: {
     index: true,

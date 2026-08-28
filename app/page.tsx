@@ -382,6 +382,35 @@ export default function Portfolio() {
               Experiencia
             </h2>
             <div className="space-y-12 group/list" role="list">
+              {/* Experience Item 0 -  Cooperadores Parroquiales(Art Marketing)*/}
+              <article
+                className="group relative grid gap-4 pb-1 transition-all duration-300 sm:grid-cols-8 sm:gap-8 lg:hover:!opacity-100 lg:group-hover/list:opacity-50"
+                role="listitem"
+              >
+                <div className="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-muted-foreground sm:col-span-2">
+                  Ene 2026 — Feb 2026
+                </div>
+                <div className="z-10 sm:col-span-6">
+                  <h3 className="font-medium leading-snug text-foreground">
+                    <span>Cooperadores Parroquiales(Art Marketing) · Prácticas</span>
+                  </h3>
+                  <ul className="mt-2 text-sm leading-relaxed text-muted-foreground list-disc list-inside space-y-1">
+                    <li>
+                      Modificaciones en la web y seguridad de la página.
+                    </li>
+                    <li>Implementación de una pasarela de pagos.</li>
+                  </ul>
+                  <div className="mt-3 flex flex-wrap gap-2" role="list" aria-label="Tecnologías utilizadas">
+                    <span
+                      className="rounded-full bg-primary/10 px-3 py-1 text-xs font-medium text-primary"
+                      role="listitem"
+                    >
+                      WordPress
+                    </span>
+                  </div>
+                </div>
+              </article>
+
               {/* Experience Item 1 - Mercanza */}
               <article
                 className="group relative grid gap-4 pb-1 transition-all duration-300 sm:grid-cols-8 sm:gap-8 lg:hover:!opacity-100 lg:group-hover/list:opacity-50"

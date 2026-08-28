@@ -30,8 +30,8 @@ Sigue estos pasos para clonar, instalar y ejecutar el proyecto en modo desarroll
 ## 1️ Clonar el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/elrincondelruedas.git
-cd elrincondelruedas
+git clone https://github.com/josejd2/portfolio-1.git
+cd portfolio-1
 ```
 ## 2️⃣ Instalar las dependencias
 
